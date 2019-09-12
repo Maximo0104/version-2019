@@ -5,7 +5,7 @@ while adivinado == False:
     print ("Ingrese un numerito entre 1 y 20")
     numero = int (input())
     if numero == aleatorio:
-        print ("Adivinaste!!! Idolo animal")
+        print ("Adivinaste!!! IDOLO ANIMAL")
         adivinado = True
     if numero < aleatorio:
         print ("Salame, ingresa uno mas grande")
